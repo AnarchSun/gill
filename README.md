@@ -644,4 +644,3 @@ If you want to easily interact with any custom program with this library, you ca
 [Codama](https://github.com/codama-idl/codama) to generate a compatible JavaScript/TypeScript client
 using its IDL. You can either store the generated client inside your repo or publish it as a NPM
 package for others to easily consume.
-
